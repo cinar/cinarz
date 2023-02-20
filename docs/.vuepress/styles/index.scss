@@ -1,0 +1,20 @@
+:root {
+  --c-brand: #ffcc66;
+  --c-brand-light: var(--c-brand);
+  --c-bg-navbar: var(--c-brand);
+}
+
+.navbar {
+  --c-text-accent: #ffffff;
+}
+
+html.dark {
+  --c-brand: #ffcc66;
+  --c-brand-light: var(--c-brand);
+  --c-bg-navbar: var(--c-bg);
+}
+
+html.dark .navbar {
+  --c-text-accent: var(--c-brand);
+}
+
