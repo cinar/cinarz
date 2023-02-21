@@ -1,6 +1,6 @@
 ---
 title: Courses
-description: Courses thought by Zekiye Çınar.
+description: Courses thought by Professor Zekiye Çınar.
 sidebar: auto
 ---
 

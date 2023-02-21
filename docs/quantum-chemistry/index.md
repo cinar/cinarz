@@ -1,6 +1,6 @@
 ---
 title: Book
-description: Quantum Chemistry book authored by Zekiye Çınar.
+description: Quantum Chemistry book authored by Professor Zekiye Çınar.
 sidebar: false
 ---
 

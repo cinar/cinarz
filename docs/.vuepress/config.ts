@@ -2,6 +2,26 @@ import { defineUserConfig, defaultTheme } from "vuepress";
 
 export default defineUserConfig({
   base: "/cinarz/",
+  head: [
+    [
+      "script",
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-HBGHQKQHCC",
+        async: true,
+      },
+    ],
+    [
+      "script",
+      {},
+      `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HBGHQKQHCC');
+    `,
+    ],
+  ],
   locales: {
     "/": {
       lang: "en-US",
@@ -22,6 +42,7 @@ export default defineUserConfig({
       "/": {
         selectLanguageName: "English",
         navbar: [
+          "/biography",
           "/quantum-chemistry",
           "/publications",
           "/communications",
@@ -34,6 +55,7 @@ export default defineUserConfig({
         selectLanguageText: "Dil",
         selectLanguageAriaLabel: "Dil seçiniz",
         navbar: [
+          "/tr/ozgecmis",
           "/tr/kuantum-kimyasi",
           "/tr/yayinlar",
           "/tr/bildiriler",

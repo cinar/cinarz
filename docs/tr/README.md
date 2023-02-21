@@ -2,12 +2,28 @@
 home: true
 heroImage: /images/cinar-168x168.png
 heroAlt: Prof. Dr. Zekiye Çınar'ın resmi.
+actions:
+  - text: Özgeçmiş
+    link: ozgecmis
+    type: primary
+  - text: Üstün Başarı Bursu
+    link: ustun-basari-bursu
+    type: secondary
 ---
 
-Zekiye Çınar, 1947 yılında İstanbul’da dünyaya gelmiştir ve Çamlıca Kız Lisesi mezunudur. Hemen arkasından şimdiki adı Boğaziçi Üniversitesi olan o dönemlerdeki adı ile Robert Koleji Kimya Mühendisliği bölümünü başarı ile tamamladıktan sonra sırasıyla 1971 yılında Yüksek Mühendis; 1987 ve 1979 yıllarında doktor ve doçent ünvanları almıştır. 1988 yılında Yıldız Teknik Üniversitesi Kimya Bölümünde profesör olan hocamız, aynı zamanda uzun yıllar Yeditepe ve Marmara Üniversitelerinde de lisans ve lisansüstü dersler vermiştir. 40 yılı aşkın süre Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi Kimya Bölümü’nde öğretim üyeliği yapan hocamız 2014 yılında emekli olmuştur.
+## Son Güncellemeler
 
-Zekiye Hocamızın Yıldız Teknik Üniversitesi’ndeki 40. yılı dolayısıyla 2014 yılında 241 kişinin katıldığı [uluslararası bir kongre düzenlenmiştir](http://www.molchem2014.chemicalphysics.org.tr/). 2016 yılında [Journal Advanced Oxidation Technologies](http://www.jaots.chemicalphysics.org.tr/) dergisinde, Zekiye Hocamızın onuruna 14 farklı ülkeden akademisyenlerin her birinin bir bilimsel makale ile katkıda bulunduğu [özel bir sayı basılmıştır](https://www.degruyter.com/document/doi/10.1515/jaots-2016-0201/html).
+- [**17 Ekim 2022 - Prof. Dr. Zekiye Çınar'ı Anma Programı**](http://cpc13.chemicalphysics.org.tr/program.html)\
+  13'üncü Fizikokimya Kongresi çerçevesinde Prof. Dr. Zekiye Çınar'ı anma programı düzenlenmiştir.
 
-Zekiye Hocamız kariyeri boyunca bir çok idari görevde de bulundu. Yıldız Teknik Üniversitesi Araştırma Fon Müdürlüğü, Yıldız Teknik Üniversitesi Bilimsel Araştırma Projeleri Koordinatörlüğü ve Yıldız Teknik Üniversitesi Fen Bilimleri Enstitüsü Müdürlüğü görevlerini uzun yıllar başarı ile yürütmüştür. Zekiye Hocamız heterojen fotokataliz ve reaksiyon kinetiği alanlarında çalışan bir fizikokimyacıydı. Hocamız saygın uluslararası dergilerde çok sayıda atıf alan [makaleler yayınlamıştır](yayinlar/) ve çok sayıda yüksek lisans / doktora öğrencisi yetiştirmiştir. Türkiye’de her iki yılda bir düzenlenen tüm Chemical Physics kongrelerinin beş kişilik [bilim komitesinde yer almıştır](http://cpc13.chemicalphysics.org.tr/committee.html).
+- [**15 Eylül 2022 - Prof. Dr. Zekiye Çınar Seminer Salonu**](guncellemeler/2022-09-15-prof-dr-zekiye-cinar-seminer-salonu)\
+  Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde bir seminer salonuna Prof. Dr. Zekiye Çınar'ın adı verilmiştir.
 
-Fizikokimya, Kuantum Kimyası, Termokimyasal Kinetik, Moleküler Fotokimya lisans ve lisansüstü düzeyde [Zekiye Hocamızın verdiği derslerden yalnızca bazıları](dersler/). 1994 yılında Çağlayan Kitabevi tarafıdan basılmış olan [Kuantum Kimyası](kuantum-kimyasi/) kitabı uzun yıllar öğrencilerin tercih ettiği bir kitap olmuştur ve hala piyasada yer alan kitaplar arasındadır.
+- [**5 Eylül 2022 - Prof. Dr. Zekiye Çınar Üstün Başarı Bursu**](ustun-basari-bursu)\
+  Ülkemizdeki nitelikli bilim insanlarının yetişmesine katkı sağlamak amacı ile Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi Kimya Bölümü’nün kıymetli hocalarından Prof. Dr. Zekiye Çınar’ın anısına, çalışkan ve bilimsel hedefleri olan üniversitemiz öğrencilerine yönelik bir burs tertip edilmektedir.
+
+- [**5 Temmuz 2016 - Journal Advanced Oxidation Technologies Dergisi Prof. Dr. Zekiye Çınar Özel Sayısı**](http://www.jaots.chemicalphysics.org.tr/)\
+  2016 yılında Journal Advanced Oxidation Technologies dergisinde, Zekiye Hocamızın onuruna 14 farklı ülkeden akademisyenlerin her birinin bir bilimsel makale ile katkıda bulunduğu özel bir sayı basılmıştır.
+
+- [**19 Aralık 2014 - Molchem 2014 Kongresi Prof. Dr. Zekiye Çınar'ın Adına Adanmıştır**](http://www.molchem2014.chemicalphysics.org.tr/)\
+  Uluslararası Moleküler Kimya 2014 kongresi Prof. Dr. Zekiye Çınar'ın bilime katkılarının 40'ıncı yılı dolayısıyla adanmıştır.

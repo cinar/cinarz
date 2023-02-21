@@ -1,12 +1,12 @@
 ---
 title: Theses
-description: Master's and Doctoral theses supervised by Zekiye Çınar, Ph.D.
+description: Master's and Doctoral theses supervised by Professor Zekiye Çınar.
 sidebar: auto
 ---
 
 ## Doctoral Theses
 
-Doctoral theses supervised by Zekiye Çınar, Ph.D.
+Doctoral theses supervised by Profressor Zekiye Çınar.
 
 ### 2016
 
@@ -46,7 +46,7 @@ Doctoral theses supervised by Zekiye Çınar, Ph.D.
 
 ## Master's Theses
 
-Master's theses supervised by Zekiye Çınar, Ph.D.
+Master's theses supervised by Professor Zekiye Çınar.
 
 ### 2014
 

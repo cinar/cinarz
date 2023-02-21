@@ -1,6 +1,6 @@
 ---
 title: Communications
-description: Recent communications of Zekiye Çınar, Ph.D.
+description: Recent communications of Profressor Zekiye Çınar.
 sidebar: auto
 ---
 

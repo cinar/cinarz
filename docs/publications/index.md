@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: Recent publications of Zekiye Çınar, Ph.D.
+description: Recent publications of Professor Zekiye Çınar.
 sidebar: auto
 ---
 
