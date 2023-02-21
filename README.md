@@ -1,6 +1,6 @@
 # Prof. Dr. Zekiye Çınar's Website
 
-## Developmner
+## Development
 
 ```bash
 $ npm run dev
