@@ -53,4 +53,3 @@ The structure of matter, electromagnetic radiation, blackbody radiation, the pho
 ### Structure and Thermodynamic Properties (Week 13-14)
 
 The energy of a system, the entropy of a system, partition functions, molecular motions-translational, rotational and vibrational motions, calculation of molecular properties, calculation of kinetic parameters.
-

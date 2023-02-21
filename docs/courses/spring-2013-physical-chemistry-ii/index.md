@@ -79,4 +79,3 @@ Chemical potential, thermodynamic properties of mixtures, chemical equilibrium i
 
 - [Lecture 11](../../files/spring-2013-physical-chemistry-ii-lecture-11.pdf)
 - [Lecture 12](../../files/spring-2013-physical-chemistry-ii-lecture-12.pdf)
-

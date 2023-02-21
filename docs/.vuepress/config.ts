@@ -15,6 +15,8 @@ export default defineUserConfig({
     },
   },
   theme: defaultTheme({
+    contributors: false,
+    lastUpdated: false,
     sidebar: false,
     locales: {
       "/": {

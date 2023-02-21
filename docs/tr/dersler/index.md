@@ -33,4 +33,3 @@ sidebar: auto
 ### 2006 Bahar Dönemi
 
 - [ChBE 212 Physical Chemistry II](../../courses/spring-2006-physical-chemistry-ii/)
-
