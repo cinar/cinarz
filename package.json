@@ -1,7 +1,7 @@
 {
   "name": "cinarz",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prof. Dr. Zekiye Çınar's Website",
   "main": "index.js",
   "scripts": {
     "build": "vuepress build docs",
@@ -10,8 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Onur Cinar <onur.cinar@gmail.com>",
+  "license": "GPL",
   "devDependencies": {
     "prettier": "^2.8.4",
     "pretty": "^2.0.0",
