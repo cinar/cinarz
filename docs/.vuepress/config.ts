@@ -31,7 +31,7 @@ export default defineUserConfig({
     "/tr/": {
       lang: "tr-TR",
       title: "Prof. Dr. Zekiye Çınar",
-      description: "Fiziko Kimya Profesörü",
+      description: "Fizikokimya Profesörü",
     },
   },
   theme: defaultTheme({

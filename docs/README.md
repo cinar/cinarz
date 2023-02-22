@@ -17,7 +17,7 @@ actions:
   A memorial session for Professor Zekiye Çınar has been organized as part of 13th Chemical Physics Congress.
 
 - [**September 15, 2022 - Professor Zekiye Çınar Conferance Hall**](updates/2022-09-15-professor-zekiye-cinar-conferance-hall)\
-  Yıldız Teknik University has named a conferance hall in the Faculty of Arts and Sciences in memory of Professor Zekiye Çınar.
+  Yıldız Technical University has named a conferance hall in the Faculty of Arts and Sciences in memory of Professor Zekiye Çınar.
 
 - [**September 5, 2022 - Professor Zekiye Çınar Outstanding Achievement Scholarship**](scholarship)\
   In order to contribute to the training of qualified scientists, a scholarship in memory of Professor Zekiye Çınar is announced.

@@ -6,6 +6,24 @@ sidebar: auto
 
 # Publications
 
+For most up to date list of publications and citations, please refer to Professor Zekiye Çınar's [ResearchGate profile](https://www.researchgate.net/profile/Zekiye-Cinar).
+
+## 2022
+
+- [A Facile Synthesis of Bio‐Inspired Hierarchical Microstructure TiO 2 : Characterization and Photocatalytic Activity](http://dx.doi.org/10.1002/ep.14054)\
+  Ümit Nazlı Türkten, Betul Karatas, Yunus Karatas, Zekiye Cinar, Miray Bekbolet\
+  Environ Prog Sustainable Energy, e14054 (2022)
+
+- [Boron Doped TiO2 For The Photodegradation of 4-nitrophenol: Optimization of The Doping Parameters](http://dx.doi.org/10.17350/HJSE19030000203)\
+  Nazlı TÜRKTEN, Dila KAYA, Zekiye ÇINAR\
+  Hittite Journal of Science and Engineering, 7 (4), 339-344 (2022)
+
+## 2019
+
+- [Copper-doped TiO2 photocatalysts: application to drinking water by humic matter degradation](https://link.springer.com/article/10.1007/s11356-019-04474-x)\
+  Nazli Turkten, Zekiye Cinar, Ayse Tomruk, Miray Bekbolet\
+  Environmental Science and Pollution Research volume 26, pages36096–36106 (2019)
+
 ## 2017
 
 - [The Role of Molecular Modeling in TiO2 Photocatalysis](http://dx.doi.org/10.3390/molecules22040556)\
