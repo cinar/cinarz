@@ -6,7 +6,7 @@ sidebar: auto
 
 # Yayınlar
 
-Prof. Dr. Zekiye Çınar'ın en güncel yayınları ve atıfkar için [ResearchGate profiline](https://www.researchgate.net/profile/Zekiye-Cinar) bakınız.
+Güncel yayınları ve atıfkar için Prof. Dr. Zekiye Çınar'ın [ResearchGate profiline](https://www.researchgate.net/profile/Zekiye-Cinar) bakınız.
 
 ## 2022
 
@@ -22,7 +22,7 @@ Prof. Dr. Zekiye Çınar'ın en güncel yayınları ve atıfkar için [ResearchG
 
 - [Copper-doped TiO2 photocatalysts: application to drinking water by humic matter degradation](https://link.springer.com/article/10.1007/s11356-019-04474-x)\
   Nazli Turkten, Zekiye Cinar, Ayse Tomruk, Miray Bekbolet\
-  Environmental Science and Pollution Research volume 26, pages36096–36106 (2019)
+  Environmental Science and Pollution Research volume 26, pages 36096–36106 (2019)
 
 ## 2017
 
