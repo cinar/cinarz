@@ -1,4 +1,5 @@
 import { defineUserConfig, defaultTheme } from "vuepress";
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 export default defineUserConfig({
   base: "/cinarz/",
@@ -45,4 +46,10 @@ export default defineUserConfig({
       },
     },
   }),
+  plugins: [
+    sitemapPlugin({
+      hostname: "zdo.com",
+      changefreq: "monthly",
+    }),
+  ],
 });
