@@ -26,8 +26,8 @@ actions:
 - [**5 Eylül 2022 - Prof. Dr. Zekiye Çınar Üstün Başarı Bursu**](ustun-basari-bursu)\
   Ülkemizdeki nitelikli bilim insanlarının yetişmesine katkı sağlamak amacı ile Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi Kimya Bölümü’nün kıymetli hocalarından Prof. Dr. Zekiye Çınar’ın anısına, çalışkan ve bilimsel hedefleri olan üniversitemiz öğrencilerine yönelik bir burs tertip edilmektedir.
 
-- [**5 Temmuz 2016 - Journal Advanced Oxidation Technologies Dergisi Prof. Dr. Zekiye Çınar Özel Sayısı**](http://www.jaots.chemicalphysics.org.tr/)\
+- [**5 Temmuz 2016 - Journal Advanced Oxidation Technologies Dergisi Prof. Dr. Zekiye Çınar Özel Sayısı**](guncellemeler/2016-07-05-journal-of-advanced-oxidation-technologies-dergisi-prof-dr-zekiye-cinar-ozel-sayisi)\
   2016 yılında Journal Advanced Oxidation Technologies dergisinde, Zekiye Hocamızın onuruna 14 farklı ülkeden akademisyenlerin her birinin bir bilimsel makale ile katkıda bulunduğu özel bir sayı basılmıştır.
 
-- [**19 Aralık 2014 - Molchem 2014 Kongresi Prof. Dr. Zekiye Çınar'ın Adına Adanmıştır**](http://www.molchem2014.chemicalphysics.org.tr/)\
+- [**19 Aralık 2014 - Molchem 2014 Kongresi Prof. Dr. Zekiye Çınar'ın Adına Adanmıştır**](guncellemeler/2014-12-19-molecular-chemistry-2014-prof-dr-zekiye-cinar-adina-adanmistir)\
   Uluslararası Moleküler Kimya 2014 kongresi Prof. Dr. Zekiye Çınar'ın bilime katkılarının 40'ıncı yılı dolayısıyla adanmıştır.

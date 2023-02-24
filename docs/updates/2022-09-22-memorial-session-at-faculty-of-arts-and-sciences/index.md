@@ -1,10 +1,12 @@
 ---
-title: Memorial Session at Yıldız Technical University Faculty of Arts and Sciences
+title: September 22, 2022 - Memorial Session at Yıldız Technical University Faculty of Arts and Sciences
 description: A memorial session held for Professor Zekiye Çınar who passed away on July 22, 2021.
 sidebar: false
 ---
 
 # Memorial Session at Yıldız Technical University Faculty of Arts and Sciences
+
+September 22, 2022
 
 ![Invitation for Memorial Session at Yıldız Technical University Faculty of Arts and Sciences](/images/2022-09-22-fen-edebiyat-fakultesinde-anma-programi.webp)
 

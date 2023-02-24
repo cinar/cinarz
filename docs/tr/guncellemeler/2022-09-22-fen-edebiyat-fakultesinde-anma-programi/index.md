@@ -1,10 +1,12 @@
 ---
-title: Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde Anma Programı
+title: 22 Eylül 2022 - Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde Anma Programı
 description: 22 Temmuz 2021 tarihinde kaybettiğimiz Bölümümüz Öğretim Üyesi Değerli Hocamız Prof. Dr. Zekiye Çınar için bir anma etkinliği düzenlenmiştir.
 sidebar: false
 ---
 
 # Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde Anma Programı
+
+22 Eylül 2022 
 
 ![Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde Anma Program davetiyesi](/images/2022-09-22-fen-edebiyat-fakultesinde-anma-programi.webp)
 

@@ -26,8 +26,8 @@ actions:
 - [**September 5, 2022 - Professor Zekiye Çınar Outstanding Achievement Scholarship**](scholarship)\
   In order to contribute to the training of qualified scientists, a scholarship in memory of Professor Zekiye Çınar is announced.
 
-- [**July 5, 2016 - Special Issue of the JAOTs Dedicated to Professor Zekiye Çınar**](http://www.jaots.chemicalphysics.org.tr/)\
+- [**July 5, 2016 - Special Issue of the JAOTs Dedicated to Professor Zekiye Çınar**](updates/2016-07-05-special-issue-of-the-jaots-dedicated-to-professor-zekiye-cinar)\
   A special edition of the Journal of Advanced Oxidation Technologies will be dedicated to Professor Zekiye Çınar. The edition honors her many contributions to the heterogeneous photocatalysis, particularly in computational approaches to semiconductors.
 
-- [**December 19, 2014 - Molchem 2014 is dedicated to Profressor Zekiye Çınar**](http://www.molchem2014.chemicalphysics.org.tr/)\
+- [**December 19, 2014 - Molchem 2014 is dedicated to Profressor Zekiye Çınar**](updates/2014-12-19-molecular-chemistry-2014-dedicated-to-profressor-zekiye-cinar)\
   Molecular Chemistry 2014 international symposium is dedicated to Profressor Zekiye Çınar on the occasion of her 40 year in science.
