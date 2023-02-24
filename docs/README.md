@@ -1,5 +1,6 @@
 ---
 home: true
+description: Website of Zekiye Çınar, Ph.D. - Professor of Physical Chemistry. Recent updates, publications, communications, theses, and courses."
 heroImage: /images/cinar-280x280.webp
 heroAlt: Photo of Professor Zekiye Çınar.
 actions:
@@ -15,6 +16,9 @@ actions:
 
 - [**October 17, 2022 - Memorial Session for Professor Zekiye Çınar**](http://cpc13.chemicalphysics.org.tr/program.html)\
   A memorial session for Professor Zekiye Çınar has been organized as part of 13th Chemical Physics Congress.
+
+- [**September 22, 2022 - Memorial Session at Yıldız Technical University Faculty of Arts and Sciences**](updates/2022-09-22-memorial-session-at-faculty-of-arts-and-sciences)\
+  A memorial session held for Professor Zekiye Çınar who passed away on July 22, 2021.
 
 - [**September 15, 2022 - Professor Zekiye Çınar Conferance Hall**](updates/2022-09-15-professor-zekiye-cinar-conferance-hall)\
   Yıldız Technical University has named a conferance hall in the Faculty of Arts and Sciences in memory of Professor Zekiye Çınar.
