@@ -13,4 +13,3 @@ December 19, 2014
 Molecular Chemistry 2014 international symposium is dedicated to Profressor Zekiye Çınar on the occasion of her 40 year in science.
 
 [Molecular Chemistry 2014 website](http://www.molchem2014.chemicalphysics.org.tr/)
-

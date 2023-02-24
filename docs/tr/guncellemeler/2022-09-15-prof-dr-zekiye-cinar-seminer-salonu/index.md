@@ -6,7 +6,7 @@ sidebar: false
 
 # Prof. Dr. Zekiye Çınar Seminer Salonu
 
-15 Eylül 2022 
+15 Eylül 2022
 
 ![Prof. Dr. Zekiye Çınar Seminer Salonunun Resmi](/images/prof-dr-zekiye-cinar-seminer-salonu.webp)
 

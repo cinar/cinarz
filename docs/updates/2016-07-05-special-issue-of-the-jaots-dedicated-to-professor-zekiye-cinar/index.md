@@ -16,4 +16,3 @@ The biographical summary of Professor Zekiye Çınar's career refers to work tha
 - [Journal of Advanced Oxidation Technologies (JAOTs) Preface](https://www.degruyter.com/document/doi/10.1515/jaots-2016-0201/html)\
   Miray Bekbolet, Murat Kılıç, Yaron Paz, Pierre Pichat
   Journal of Advanced Oxidation Technologies, Volume 19 Issue 2 p184-185 (2016)
-

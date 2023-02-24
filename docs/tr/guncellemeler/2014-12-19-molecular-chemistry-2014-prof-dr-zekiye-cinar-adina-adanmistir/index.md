@@ -13,4 +13,3 @@ sidebar: false
 Uluslararası Moleküler Kimya 2014 kongresi Prof. Dr. Zekiye Çınar'ın bilime katkılarının 40'ıncı yılı dolayısıyla adanmıştır.
 
 [Molecular Chemistry 2014 sayfası](http://www.molchem2014.chemicalphysics.org.tr/)
-

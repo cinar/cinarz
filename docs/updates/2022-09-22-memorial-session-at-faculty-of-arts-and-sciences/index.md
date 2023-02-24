@@ -13,4 +13,3 @@ September 22, 2022
 A memorial session held for Professor Zekiye Çınar who passed away on July 22, 2021.
 
 [Prof. Dr. Zekiye Çınar Anma Günü](https://kml.yildiz.edu.tr/haberler/136/Prof.%20Dr.%20Zekiye%20%C3%87%C4%B1nar%20Anma%20G%C3%BCn%C3%BC)
-
