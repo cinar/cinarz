@@ -9,11 +9,11 @@
 </template>
 
 <style type="scss">
-  .footer {
-    padding: 2.5rem;
-    border-top: 1px solid var(--c-border);
-    text-align: center;
-    color: var(--c-text-lighter);
-    transition: border-color var(--t-color);
- }
+.footer {
+  padding: 2.5rem;
+  border-top: 1px solid var(--c-border);
+  text-align: center;
+  color: var(--c-text-lighter);
+  transition: border-color var(--t-color);
+}
 </style>
