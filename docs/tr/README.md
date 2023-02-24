@@ -1,5 +1,6 @@
 ---
 home: true
+description: Prof. Dr. Zekiye Çınar - Fizikokimya Profesörü - Web sitesi. Son Güncellemeler, yayınlar, bildiriler, tezler ve dersler.
 heroImage: /images/cinar-280x280.webp
 heroAlt: Prof. Dr. Zekiye Çınar'ın resmi.
 actions:
@@ -15,6 +16,9 @@ actions:
 
 - [**17 Ekim 2022 - Prof. Dr. Zekiye Çınar'ı Anma Programı**](http://cpc13.chemicalphysics.org.tr/program.html)\
   13'üncü Fizikokimya Kongresi çerçevesinde Prof. Dr. Zekiye Çınar'ı anma programı düzenlenmiştir.
+
+- [**22 Eylül 2022 - Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde Anma Programı**](guncellemeler/2022-09-22-fen-edebiyat-fakultesinde-anma-programi)\
+  22 Temmuz 2021 tarihinde kaybettiğimiz Bölümümüz Öğretim Üyesi Değerli Hocamız Prof. Dr. Zekiye Çınar için bir anma etkinliği düzenlenmiştir.
 
 - [**15 Eylül 2022 - Prof. Dr. Zekiye Çınar Seminer Salonu**](guncellemeler/2022-09-15-prof-dr-zekiye-cinar-seminer-salonu)\
   Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi'nde bir seminer salonuna Prof. Dr. Zekiye Çınar'ın adı verilmiştir.
