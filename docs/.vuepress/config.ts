@@ -1,8 +1,27 @@
+import { getDirname, path } from "@vuepress/utils";
 import { defineUserConfig, defaultTheme } from "vuepress";
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
+const __dirname = getDirname(import.meta.url);
+
 export default defineUserConfig({
   base: "/cinarz/",
+  head: [
+    [
+      "script",
+      {
+        src: "https://cdn.websitepolicies.io/lib/cookieconsent/cookieconsent.min.js",
+        defer: true,
+      },
+    ],
+    [
+      "script",
+      {},
+      `
+window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"background":"#fff0ca","text":"#000000","border":"#e0bc57"},"button":{"background":"#e0bc57","text":"#ffffff"}},"border":"thin","corners":"small","content":{"href":"https://zdo.com/privacy-policy"}})});
+`,
+    ],
+  ],
   locales: {
     "/": {
       lang: "en-US",
@@ -52,4 +71,14 @@ export default defineUserConfig({
       changefreq: "monthly",
     }),
   ],
+  alias: {
+    "@theme/HomeFooter.vue": path.resolve(
+      __dirname,
+      "./components/HomeFooter.vue"
+    ),
+    "@theme/PageMeta.vue": path.resolve(
+      __dirname,
+      "./components/PageMeta.vue"
+    ),
+  },
 });
