@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/cinar-168x168.png
+heroImage: /images/cinar-280x280.webp
 heroAlt: Prof. Dr. Zekiye Çınar'ın resmi.
 actions:
   - text: Özgeçmiş
