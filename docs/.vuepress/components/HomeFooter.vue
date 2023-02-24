@@ -2,8 +2,8 @@
 
 <template>
   <div class="footer">
-    <a href="/disclaimer">Disclaimer</a>&nbsp;
-    <a href="/privacy-policy">Privacy Policy</a>&nbsp;
+    <a href="/disclaimer">Disclaimer</a>
+    <a href="/privacy-policy">Privacy Policy</a>
     <a href="/terms-and-conditions">Terms and Conditions</a>
   </div>
 </template>
@@ -16,4 +16,10 @@
   color: var(--c-text-lighter);
   transition: border-color var(--t-color);
 }
+
+.footer a {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
 </style>
