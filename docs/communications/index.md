@@ -6,6 +6,8 @@ sidebar: auto
 
 # Communications
 
+For most up to date list of communications, please refer to Professor Zekiye Çınar's [AVESIS profile](https://avesis.yildiz.edu.tr/cinarz/publications).
+
 ## 2016
 
 - **Photocatalytic Decolorization of Azo Dyes on TiO2: Prediction of Reaction Mechanism via Conceptual DFT**\
@@ -123,6 +125,10 @@ sidebar: auto
 - **Solar Light-Driven Titania Photocatalyst Co-Doped with Nitrogen and Selenium**\
   Y.Y. Gurkan, Z. Cinar\
   The 10th Chemical Physics Congress, October 10-12, TOBB University of Economics and Technology, Ankara, Turkey (2012).
+
+- **Bis(fenilimin) Schiff Bazı Metal Komplekslerinin Kimyasal Reaktivite İndisleri**\
+  HATİPOĞLU A., Civan D., Çınar Z.\
+  XXVI. Ulusal Kimya Kongresi,Muğla Sıtkı Koçman Üniversitesi, Muğla, Turkey, 01 October 2012, pp.105
 
 ## 2011
 
@@ -535,3 +541,129 @@ sidebar: auto
 - **Structures and Properties of .cis and .trans-3-Methyl-Allylperoxyl Radicals**\
   A. Hatipoglu, Z. Cinar\
   CHEMICAL PHYSICS IV, P68, SEPTEMBER 28-29, OSMANGAZI UNIVERSITY, ESKISEHIR, (2000)
+
+## 1999
+
+- **Sulu TiO2 Suspansiyonlarında orto Krezolün Fotokatalitik Degradasyonu**\
+  ÇINAR Z.\
+  XIII. Ulusal Kimya Kongresi, p411, 19 Mayıs Üniversitesi, 31 Ağustos-4 Eylül, Samsun, 01 September 1999
+
+- **Hidroksialkilfenon Türevlerinin Yapılarının Yarı Ampirik Metotlarla Tayini**\
+  ÇINAR Z.\
+  XIII. Ulusal Kimya Kongresi, p412, 19 Mayıs Üniversitesi, 31 Ağustos-4 Eylül, Samsun, 01 September 1999
+
+- **A Computational Study of the Photodecomposition Reactions of 1,1,3,3,3-Pentafluoropropene**\
+  ÇINAR Z.\
+  5th World Congress of Theoretically Oriented Chemists WATOC 99, p271, August 1-6, London, UNITED KINGDOM,, 01 August 1999
+
+- **A Computational Study on the Kinetics of DNA OH Reactions**
+  ÇINAR Z.\
+  5th World Congress of Theoretically Oriented Chemists WATOC 99, p270, August 1-6, London, UNITED KINGDOM, 01 August 1999
+
+- **A Theoretical and Experimental Study on the Kinetics of the Photodegradation Reactions of Benzoic Acid in Aqueous TiO2 Suspensions**
+  ÇINAR Z.\
+  The 4th International Conference on TiO2 Photocatalytic Purification of Water and Air, 153-154, May 24-28, Albuquerque, USA,, 01 May 1999
+
+## 1998
+
+- **MNDO Results for the Structures of Methyllithium and Its Clusters**\
+  ÇINAR Z.\
+  Chemical Physics III, p33, Boğaziçi University, October 22-23, İstanbul, TURKEY, 01 October 1998
+
+- **Quantum Mechanical Indices for the Determination of the Degradation Rates of Aromatic Pollutants**\
+  ÇINAR Z.\
+  Chemical Physics III, p48, Boğaziçi University, October 22-23, İstanbul, TURKEY, 01 October 1998
+
+- **The Kinetics of the Gas Phase Reactions of OH Radicals with 1-Pentanol and Cyclopentanol**
+  ÇINAR Z.\
+  Chemical Physics III, p27, Boğaziçi University, October 22-23, İstanbul, TURKEY, 01 October 1998
+
+- **The Kinetics of the Photocatalytic Degradation of Aniline in TiO2 Suspensions**\
+  ÇINAR Z.\
+  Chemical Physics III, p47, Boğaziçi University, October 22-23, İstanbul, TURKEY, 01 October 1998
+
+- **A Computational Study for the Prediction of the Radicals Formed in DNA OH Reactions**
+  ÇINAR Z.\
+  Chemical Physics III, p28, Boğaziçi University, October 22-23, İstanbul, TURKEY, 01 October 1998
+
+- **Benzoin Türevlerinin AM1 ve PM3 Yöntemleri ile Yapılarının Tayini**\
+  ÇINAR Z.\
+  12. Ulusal Kimya Kongresi, s341, Trakya Üniversitesi, 7-11 Eylül, Edirne, 01 September 1998
+
+- **OH Propanol Reaksiyonlarının Kinetiğinin İncelenmesi**\
+  ÇINAR Z.\
+  12. Ulusal Kimya Kongresi, s342, Trakya Üniversitesi, 7-11 Eylül, Edirne, 01 September 1998
+
+- **Organolityum Bileşiklerinin Yarı Ampirik MNDO Yöntemi ile Yapılarının Tayini**
+  ÇINAR Z.\
+  12. Ulusal Kimya Kongresi, s350, Trakya Üniversitesi, 7-11 Eylül, Edirne, 01 September 1998
+
+- **Sulu TiO2 Suspansiyonlarında orto, meta ve para Nitrofenolün Fotokatalitik Degradasyon Reaksiyonları**
+  ÇINAR Z.\
+  12. Ulusal Kimya Kongresi, s354, Trakya Üniversitesi, 7-11 Eylül, Edirne, 01 September 1998
+
+- **Sulu TiO2 Suspansiyonlarında Fenolün Fotokatalitik Degradasyonu**
+  ÇINAR Z.\
+  12. Ulusal Kimya Kongresi, s305, Trakya Üniversitesi, 7-11 Eylül, Edirne, 01 September 1998
+
+- **A Computational Study of the Photodecomposition Reactions of Trifluoroethylene**
+  ÇINAR Z.\
+  13th Canadian Symposium on Theoretical Chemistry, p41, The University of British Columbia, August 2-7, Vancouver, CANADA,, 01 August 1998
+
+- **Structure-Activity Relations for the Gas-Phase Reactions of Hydroxyl Radicals with Aliphatic Alcohols**\
+  ÇINAR Z. \
+  13th Canadian Symposium on Theoretical Chemistry, p64, The University of British Columbia, August 2-7, Vancouver, CANADA, 01 August 1998
+
+## 1997
+
+- **Kinetics of Photocatalytic Degradation of 4-Chlorophenol in TiO2 Suspensions**\
+  ÇINAR Z. \
+  36th IUPAC Congress, Chimia, 7/97, p.524, August 17-22, Geneva, SWITZERLAND, 01 August 1997
+
+- **Sulu Titanyum Dioksit Suspansiyonlarında Ftalik Asidin Fotokatalitik Degradasyonu**\
+  ÇINAR Z. \
+  XI. Ulusal Kimya Kongresi, s.384, 16-20 Haziran, Yüzüncü Yıl Üniversitesi, Van, 01 June 1997
+
+- **Bütanolden OH Radikali ile Hidrojen Koparılması Reaksiyonlarının Kinetiğinin İncelenmesi**\
+  ÇINAR Z. \
+  XI. Ulusal Kimya Kongresi, s.386, 16-20 Haziran, Yüzüncü Yıl Üniversitesi, Van, 01 June 1997
+
+## 1994
+
+- **Olefinlere Hidrojensülfür Katılması Reaksiyonlarının Aktivasyon Enerjilerinin Hesaplanması**\
+  ÇINAR Z. \
+  X. Ulusal Kimya Kongresi, s.251, 19-21 Eylül, Uludağ Üniversitesi, Bursa,, 01 September 1994
+
+- **Mono ve Dikloropolienlerin pi Elektronik Yapıları**\
+  ÇINAR Z. \
+  X. Ulusal Kimya Kongresi, s.252, 19-21 Eylül, Uludağ Üniversitesi, Bursa, 01 September 1994
+
+- **Poli(akrilat) ve Poli(metakrilat)ların Camsı Geçiş Temperatürlerinin Hesaplanması**\
+  ÇINAR Z. \
+  X. Ulusal Kimya Kongresi, s.214, 19-21 Eylül, Uludağ Üniversitesi, Bursa, 01 September 1994
+
+- **Haloetan OH Reaksiyonlarının Kinetiğinin İncelenmesi**\
+  ÇINAR Z. \
+  X. Ulusal Kimya Kongresi, s.215, 19-21 Eylül, Uludağ Üniversitesi , Bursa, 01 September 1994
+
+## 1993
+
+- **Polimerlerin Camsı Geçiş Temperatürlerinin Topolojik İndislerle Belirlenmesi**\
+  ÇINAR Z. \
+  IX. Kimya ve Kimya Mühendisliği Sempozyumu, s.301, 20-24 Eylül, Karadeniz Teknik Üniversitesi, Trabzon, 01 September 1993
+
+## 1992
+
+- **Halometan OH Reaksiyonlarının Kinetiğinin Teorik Olarak BEBO Yöntemi ile İncelenmesi**\
+  ÇINAR Z. \
+  VIII. Kimya ve Kimya Mühendisliği Sempozyumu, 3, 1-5, 7-11 Eylül, Marmara Üniversitesi, İstanbul,, 01 September 1992
+
+- **Uyarılmış Pentafloropropenin Ayrışma Reaksiyonlarının Aktivasyon Enerjilerinin Hesaplanması**\
+  ÇINAR Z. \
+  VIII. Kimya ve Kimya Mühendisliği Sempozyumu, 3, 7-10, 7-11 Eylül, Marmara Üniversitesi, İstanbul, 01 September 1992
+
+## 1991
+
+- **Fotokimyasal Olarak Uyarılmış 1,1,3,3,3 Pentafloropropen Molekülünün Ayrışma Reaksiyonları ve İstatistiksel Ürün Dağılımı**\
+  ÇINAR Z. \
+  VII. Kimya ve Kimya Muhendisliği Sempozyumu, 7-11 Nisan, Doğu Akdeniz Üniversitesi, Gazimagusa, KKTC, 01 April 1991

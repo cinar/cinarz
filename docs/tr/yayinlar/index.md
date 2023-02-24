@@ -6,7 +6,10 @@ sidebar: auto
 
 # Yayınlar
 
-Güncel yayınları ve atıfkar için Prof. Dr. Zekiye Çınar'ın [ResearchGate profiline](https://www.researchgate.net/profile/Zekiye-Cinar) bakınız.
+Güncel yayınları ve atıfkar için Prof. Dr. Zekiye Çınar'ın:
+
+- [ResearchGate profili](https://www.researchgate.net/profile/Zekiye-Cinar)
+- [AVESIS profili](https://avesis.yildiz.edu.tr/cinarz/publications)
 
 ## 2022
 
@@ -22,7 +25,7 @@ Güncel yayınları ve atıfkar için Prof. Dr. Zekiye Çınar'ın [ResearchGate
 
 - [Copper-doped TiO2 photocatalysts: application to drinking water by humic matter degradation](https://link.springer.com/article/10.1007/s11356-019-04474-x)\
   Nazli Turkten, Zekiye Cinar, Ayse Tomruk, Miray Bekbolet\
-  Environmental Science and Pollution Research volume 26, pages 36096–36106 (2019)
+  Environmental Science and Pollution Research volume 26, pages36096–36106 (2019)
 
 ## 2017
 
@@ -179,3 +182,73 @@ Güncel yayınları ve atıfkar için Prof. Dr. Zekiye Çınar'ın [ResearchGate
 - [The Kinetics and Mechanism of the Photocatalytic Degradation of 4-Nitrophenol in TiO2 Suspensions]()\
   Z. Cinar, N. San, A. Hatipoglu, G. Kocturk\
   PROCEEDINGS OF WATER SUPPLY AND QUALITY, 577-588, (2000)
+
+- [Su Arıtımında Kullanılan Yarı İletkenler](https://avesis.yildiz.edu.tr/publication/details/91d950c1-6b4f-4206-a3f1-ca8014bf590a/su-aritiminda-kullanilan-yari-iletkenler)\
+  Z. ÇINAR\
+  Arıtım Dünyası Dergisi, vol.18, pp.51-61, 2000
+
+## 1999
+
+- [Yeni bir Su Arıtım Yöntemi: Heterojen Fotokatalitik Degradasyon](https://avesis.yildiz.edu.tr/publication/details/fd599f68-1f2a-434e-b5df-db9bf8b314d6/yeni-bir-su-aritim-yontemi-heterojen-fotokatalitik-degradasyon)\
+  Z. ÇINAR\
+  Arıtım Dünyası Dergisi, vol.14, pp.39-48, 1999
+
+## 1998
+
+- [A Computational Study on the Structures of Halogenated Linear Polyenes](https://avesis.yildiz.edu.tr/publication/details/14515033-944a-4c76-bfa8-a6ea993eaf81/a-computational-study-on-the-structures-of-halogenated-linear-polyenes)\
+  Z. ÇINAR\
+  Chimica Acta Turcica, vol.98, no.1, pp.62-69, 1998 (Peer-Reviewed Journal)
+
+## 1993
+
+- [Asetik Asit – Toluen Azeotropuna Basınç ve Tuz Etkilerinin Karşılaştırılması](https://avesis.yildiz.edu.tr/publication/details/2760830d-7fbf-444a-9a89-4ad3632dc9b8/asetik-asit-toluen-azeotropuna-basinc-ve-tuz-etkilerinin-karsilastirilmasi)\
+  Z. ÇINAR\
+  Yıldız Teknik Üniversitesi Dergisi, vol.3, pp.45-52, 1993 (Peer-Reviewed Journal)
+
+## 1992
+
+- [Calculation of the Activation Energies for the Decomposition Reactions of the Excited Pentafluoropropene](https://avesis.yildiz.edu.tr/publication/details/5beb10a4-6664-4e15-95b3-015e40e76144/calculation-of-the-activation-energies-for-the-decomposition-reactions-of-the-excited-pentafluoropropene)\
+  Z. ÇINAR\
+  Turkish VIIIth National Symposium on Chemistry and Chemical Engineering, vol.3, pp.7-10, 1992
+- [P-Electronic Structures of Mono and Difluoropolienes](https://avesis.yildiz.edu.tr/publication/details/fba34f12-1257-40c8-80da-f5f183804357/p-electronic-structures-of-mono-and-difluoropolienes)\
+  Z. ÇINAR\
+  Turkish VIIIth National Symposium on Chemistry and Chemical Engineering, vol.3, pp.33-38, 1992
+- [Investigation of the Kinetics of Halomethane + OH Reactions by BEBO Method](https://avesis.yildiz.edu.tr/publication/details/6f982095-6056-44b2-80c1-cc78942f9660/investigation-of-the-kinetics-of-halomethane-oh-reactions-by-bebo-method)\
+  Z. ÇINAR\
+  Turkish VIIIth National Symposium on Chemistry and Chemical Engineering, vol.3, pp.1-5, 1992
+
+## 1991
+
+- [Carbon Suboxide: Its Chemistry and Structure](https://avesis.yildiz.edu.tr/publication/details/07d4d4ad-597c-4753-bd3e-f671b2adff43/carbon-suboxide-its-chemistry-and-structure)\
+  Z. ÇINAR\
+  Journal of Yıldız University, vol.1, pp.65-70, 1991 (Peer-Reviewed Journal)
+
+## 1989
+
+- [Photochemical Reactions of Carbon Suboxide](https://avesis.yildiz.edu.tr/publication/details/a1b9208a-4688-4889-818a-185753c84aa8/photochemical-reactions-of-carbon-suboxide)\
+  Z. ÇINAR\
+  Kimya ve Sanayi, vol.31, pp.49-60, 1989 (Peer-Reviewed Journal)
+
+- [The Statistical Distribution of the Products in the Vacuum-UV Photolysis of Carbon Suboxide with Trifluoromethane](https://avesis.yildiz.edu.tr/publication/details/841e03b4-8602-49cc-966f-41429c7579dd/the-statistical-distribution-of-the-products-in-the-vacuum-uv-photolysis-of-carbon-suboxide-with-trifluoromethane)\
+  Z. ÇINAR\
+  Journal of Yıldız University, vol.2, pp.37-42, 1989 (Peer-Reviewed Journal)
+
+- [Salt Effects on n-Heptane – Acetic Acid Vapor Liquid Equilibria](https://avesis.yildiz.edu.tr/publication/details/f9e04f77-aa9e-4cc3-8740-100e10fd55c4/salt-effects-on-n-heptane-acetic-acid-vapor-liquid-equilibria)\
+  Z. ÇINAR\
+  MÜ Fen Bilimleri Dergisi, vol.6, pp.57-66, 1989 (Peer-Reviewed Journal)
+
+- [Vacuum-UV Absorption Spectrum and the Electronic Structure of Carbon Suboxide](https://avesis.yildiz.edu.tr/publication/details/af98b67b-5167-47d5-abbc-a0f96e6b72df/vacuum-uv-absorption-spectrum-and-the-electronic-structure-of-carbon-suboxide)\
+  Z. ÇINAR\
+   Journal of Yıldız University, vol.1, no.9, pp.47-52, 1989 (Peer-Reviewed Journal)
+
+- [Glass-Transition Temperature of Polymers](https://avesis.yildiz.edu.tr/publication/details/c6876247-f356-4047-8a4d-11b080bb4c5f/glass-transition-temperature-of-polymers)\
+  Z. ÇINAR\
+  Journal of Yıldız University, vol.2, pp.59-70, 1989 (Peer-Reviewed Journal)
+
+- [Asetik Asit – Toluen Azeotropuna Basınç Etkisi](https://avesis.yildiz.edu.tr/publication/details/5b073996-e7b3-4505-bdc7-8712bea3f367/asetik-asit-toluen-azeotropuna-basinc-etkisi)\
+  Z. ÇINAR\
+  Yıldız Üniversitesi Dergisi, vol.1, pp.11-18, 1989 (Peer-Reviewed Journal)
+
+- [Isı ile Hızlandırılmış Reaksiyonlar ile Dayanıklılık Saptanması](https://avesis.yildiz.edu.tr/publication/details/cacfd3f1-fdf8-4dcd-b186-6747f1958d71/isi-ile-hizlandirilmis-reaksiyonlar-ile-dayaniklilik-saptanmasi)\
+  Z. ÇINAR\
+  Yıldız Üniversitesi Dergisi, vol.3, pp.13-18, 1988 (Peer-Reviewed Journal)

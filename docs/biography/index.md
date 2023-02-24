@@ -6,6 +6,8 @@ sidebar: false
 
 # Biography
 
+![Photo of Professor Zekiye Çınar](/images/prof-dr-zekiye-cinar.webp)
+
 Zekiye Çınar was born in Istanbul in 1947 and graduated from Çamlıca Girls' High School. Immediately afterwards, after successfully completing the Robert College Chemical Engineering Department, which is now Boğaziçi University, in 1971, she became an M.Sc. Engineer, respectively; She received the titles of doctor and associate professor in 1987 and 1979. Ms. Çınar became a professor in the Department of Chemistry at Yıldız Technical University in 1988, also gave undergraduate and graduate courses at Yeditepe and Marmara Universities for many years. Ms. Çınar has been a faculty member at Yıldız Technical University, Faculty of Arts and Sciences, Department of Chemistry for more than 40 years, retired in 2014.
 
 An [international congress](http://www.molchem2014.chemicalphysics.org.tr/) was held in 2014 with the participation of 241 attendees, to celebrate the 40th anniversary of Ms. Çınar at Yıldız Technical University. In 2016, a [special issue](https://www.degruyter.com/document/doi/10.1515/jaots-2016-0201/html) was published in the [Journal Advanced Oxidation Technologies](http://www.jaots.chemicalphysics.org.tr/) in her honor, in which academicians from 14 different countries contributed scientific articles.
