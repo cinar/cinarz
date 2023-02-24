@@ -8,7 +8,7 @@ sidebar: false
 
 <p style="text-align: center">
 
-[![Kuantum Kimyası kitabının kapağı](/images/3990000013575.jpg)](https://www.caglayan.com/urundetay/540865/Kuantum-Kimyasi-Prof-Dr-Zekiye-Cinar-3990000013575#sthash.H1bGn8t5.dpbs)
+[![Kuantum Kimyası kitabının kapağı](/images/3990000013575.webp)](https://www.caglayan.com/urundetay/540865/Kuantum-Kimyasi-Prof-Dr-Zekiye-Cinar-3990000013575#sthash.H1bGn8t5.dpbs)
 
 [Kuantum Kimyası](https://www.caglayan.com/urundetay/540865/Kuantum-Kimyasi-Prof-Dr-Zekiye-Cinar-3990000013575#sthash.H1bGn8t5.dpbs)\
 2. Baskı\
