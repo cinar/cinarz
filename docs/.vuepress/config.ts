@@ -8,6 +8,13 @@ export default defineUserConfig({
   base: "/cinarz/",
   head: [
     [
+      "meta",
+      {
+        name: "msvalidate.01",
+        content: "5962E47FC1BBF91AE0C53888684B8420",
+      }
+    ],
+    [
       "link",
       {
         rel: "apple-touch-icon",
@@ -80,6 +87,7 @@ window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"
           "/publications",
           "/communications",
           "/theses",
+          "/projects",
           "/courses",
         ],
       },
@@ -93,6 +101,7 @@ window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"
           "/tr/yayinlar",
           "/tr/bildiriler",
           "/tr/tezler",
+          "/tr/projeler",
           "/tr/dersler",
         ],
       },
