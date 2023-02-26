@@ -12,7 +12,7 @@ export default defineUserConfig({
       {
         name: "msvalidate.01",
         content: "5962E47FC1BBF91AE0C53888684B8420",
-      }
+      },
     ],
     [
       "link",
