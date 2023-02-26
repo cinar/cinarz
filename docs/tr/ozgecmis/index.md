@@ -17,4 +17,3 @@ Zekiye Hocamız kariyeri boyunca bir çok idari görevde de bulundu. Yıldız Te
 Fizikokimya, Kuantum Kimyası, Termokimyasal Kinetik, Moleküler Fotokimya lisans ve lisansüstü düzeyde [Zekiye Hocamızın verdiği derslerden yalnızca bazıları](../dersler). 1994 yılında Çağlayan Kitabevi tarafıdan basılmış olan [Kuantum Kimyası](../kuantum-kimyasi) kitabı uzun yıllar öğrencilerin tercih ettiği bir kitap olmuştur ve hala piyasada yer alan kitaplar arasındadır.
 
 ![Photo of Professor Zekiye Çınar](/images/prof-dr-zekiye-cinar-eski.webp)
-

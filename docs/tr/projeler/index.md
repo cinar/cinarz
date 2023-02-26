@@ -30,7 +30,7 @@ Güncel projeler için Prof. Dr. Zekiye Çınar'ın:
 - **Yeni TiO2 Nano-Fotokatalizörlerin Tasarımı, Sentezi ve Karakterizasyonu**\
   Yükseköğretim Kurumları Destekli Proje\
   ÇINAR Z. (Yürütücü)
- 
+
 ## 2007 - 2010
 
 - **Graft Polimerizasyon Reaksiyonlarının Kuantum Mekaniksel Yöntemlerle Modellenmesi**\
@@ -56,5 +56,3 @@ Güncel projeler için Prof. Dr. Zekiye Çınar'ın:
 
 - **Organik Kirleticilerin TiO2 ile Fotokatalitik Degradasyonunun İncelenmesi**\
   ÇINAR Z.
-
-

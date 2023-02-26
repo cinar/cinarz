@@ -17,4 +17,3 @@ Ms. Çınar has also held many administrative positions throughout her career. S
 Physical Chemistry, Quantum Chemistry, Thermochemical Kinetics, Molecular Photochemistry are just some of [the courses given by Ms. Çınar](../courses) at undergraduate and graduate levels. The book [Quantum Chemistry](../quantum-chemistry), published by Çağlayan Bookstore in 1994, has been a book preferred by students for many years and is still among the books on the market.
 
 ![Photo of Professor Zekiye Çınar](/images/prof-dr-zekiye-cinar-eski.webp)
-
