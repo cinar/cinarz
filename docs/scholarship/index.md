@@ -21,6 +21,6 @@ Information regarding the **Zekiye Çınar Outstanding Achievement Scholarship**
 - **Application Process:** Applications will be accepted through the Yıldız Technical University Foundation Scholarship Coordination.
 - **Application Deadline:** Please regularly visit the website of the Yıldız Technical University Foundation Scholarship Coordination to learn the application deadline.
 
-For more information, visit [Yıldız Technical University Scholarship Coordinator](https://bursburosu.yildiz.edu.tr/duyurular.php?id=258) page.
+For more information, visit [Yıldız Technical University Scholarship Coordinator](https://bursburosu.yildiz.edu.tr/haberler/195/Prof--Dr--Zekiye-%C3%87INAR-Ba%C5%9Far%C4%B1-Bursu-Duyurusu) page.
 
 Students who want to apply for a scholarship can apply at [https://bursbasvuru.yildiz.edu.tr/](https://bursbasvuru.yildiz.edu.tr/).
