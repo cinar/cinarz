@@ -14,8 +14,8 @@
   "author": "Onur Cinar <onur.cinar@gmail.com>",
   "license": "GPL",
   "devDependencies": {
-    "husky": "^8.0.0",
-    "prettier": "^2.8.4",
+    "husky": "^9.0.11",
+    "prettier": "^3.2.5",
     "vuepress": "^2.0.0-beta.60",
     "vuepress-plugin-sitemap2": "^2.0.0-beta.181"
   }

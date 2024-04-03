@@ -14,6 +14,9 @@ actions:
 
 ## Recent Updates
 
+- [**March 27, 2024 - Professor Zekiye Çınar Chemical Physics Poster Awards**](updates/2024-03-27-professor-zekiye-cinar-chemical-physics-poster-awards/)\
+  In loving memory of Professor Çınar, her students and the CPC Scientific Committee have established the Zekiye Çınar Chemical Physics Poster Awards.
+
 - [**September 13, 2023 - Professor Zekiye Çınar Outstanding Achievement Scholarship**](scholarship/)\
   In order to contribute to the training of qualified scientists, a scholarship in memory of Professor Zekiye Çınar is announced.
 
