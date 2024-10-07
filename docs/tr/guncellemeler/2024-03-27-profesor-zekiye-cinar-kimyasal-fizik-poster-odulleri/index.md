@@ -1,6 +1,6 @@
 ---
-title: March 27, 2024 - Profesör Zekiye Çınar Kimyasal Fizik Poster Ödülleri
-description: Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi, Çınar ailesi tarafından cömertçe finanse edilen Zekiye Çınar Kimyasal Fizik Poster Ödülleri'ni düzenledi. 
+title: 27 Mart 2024 - Profesör Zekiye Çınar Kimyasal Fizik Poster Ödülleri
+description: Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi, Çınar ailesi tarafından cömertçe finanse edilen Zekiye Çınar Kimyasal Fizik Poster Ödülleri'ni düzenledi.
 sidebar: false
 ---
 
@@ -17,4 +17,3 @@ Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi, Çınar ai
 Bu poster ödülleri, Profesör Çınar'ın başarılarını ve eğitime olan bağlılığını anıyor. O, CPC topluluğu için kalıcı bir örnek olarak hizmet ederek zarafeti ve nezaketiyle sevgiyle hatırlanacak.
 
 Daha fazla bilgi için lütfen [14. Kimyasal Fizik Kongresi](https://cpc14.trakya.edu.tr/pages/zekiye-cinar-poster-awards) web sitesini ziyaret ediniz.
-

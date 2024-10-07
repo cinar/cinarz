@@ -14,8 +14,11 @@ actions:
 
 ## Son Güncellemeler
 
-- [**March 27, 2024 - Profesör Zekiye Çınar Kimyasal Fizik Poster Ödülleri**](guncellemeler/2024-03-27-profesor-zekiye-cinar-kimyasal-fizik-poster-odulleri/)\
-  Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi Zekiye Çınar Kimyasal Fizik Poster Ödülleri'ni düzenledi. 
+- [**1 Ekim 2024 - Profesör Zekiye Çınar Kimyasal Fizik Poster Ödülü Kazananları Açıklandı**](guncellemeler/2024-10-01-prof-dr-zekiye-cinar-poster-odulu-kazananlari-aciklandi/)\
+  Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi tarafından düzenlenen Zekiye Çınar Kimyasal Fizik Poster Ödülü kazananları açıklandı.
+
+- [**27 Mart 2024 - Profesör Zekiye Çınar Kimyasal Fizik Poster Ödülleri**](guncellemeler/2024-03-27-profesor-zekiye-cinar-kimyasal-fizik-poster-odulleri/)\
+  Profesör Çınar'ın anısına, öğrencileri ve CPC Bilim Komitesi Zekiye Çınar Kimyasal Fizik Poster Ödülleri'ni düzenledi.
 
 - [**13 Eylül 2023 - Prof. Dr. Zekiye Çınar Üstün Başarı Bursu**](ustun-basari-bursu)\
   Ülkemizdeki nitelikli bilim insanlarının yetişmesine katkı sağlamak amacı ile Yıldız Teknik Üniversitesi Fen-Edebiyat Fakültesi Kimya Bölümü’nün kıymetli hocalarından Prof. Dr. Zekiye Çınar’ın anısına, çalışkan ve bilimsel hedefleri olan üniversitemiz öğrencilerine yönelik bir burs tertip edilmektedir.

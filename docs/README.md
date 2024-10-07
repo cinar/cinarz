@@ -14,6 +14,9 @@ actions:
 
 ## Recent Updates
 
+- [**October 1, 2024 - Announcing the Winners of the Prof. Dr. Zekiye Cinar Poster Award**](updates/2024-10-01-announcing-the-winners-of-the-prof-dr-zekiye-cinar-poster-award/)\
+  We are thrilled to announce the winners of the Prof. Dr. Zekiye Cinar Poster Award.
+
 - [**March 27, 2024 - Professor Zekiye Çınar Chemical Physics Poster Awards**](updates/2024-03-27-professor-zekiye-cinar-chemical-physics-poster-awards/)\
   In loving memory of Professor Çınar, her students and the CPC Scientific Committee have established the Zekiye Çınar Chemical Physics Poster Awards.
 
@@ -23,7 +26,7 @@ actions:
 - [**October 17, 2022 - Memorial Session for Professor Zekiye Çınar**](http://cpc13.chemicalphysics.org.tr/program.html)\
   A memorial session for Professor Zekiye Çınar has been organized as part of 13th Chemical Physics Congress.
 
-- [**September 22, 2022 - Memorial Session at Yıldız Technical University Faculty of Arts and Sciences**](updates/2022-09-22-memorial-session-at-faculty-of-arts-and-sciences/)\
+- [**September 22, 2022 - Memorial Session at Yıldız Technical: University Faculty of Arts and Sciences**](updates/2022-09-22-memorial-session-at-faculty-of-arts-and-sciences/)\
   A memorial session held for Professor Zekiye Çınar who passed away on July 22, 2021.
 
 - [**September 15, 2022 - Professor Zekiye Çınar Conferance Hall**](updates/2022-09-15-professor-zekiye-cinar-conferance-hall/)\
