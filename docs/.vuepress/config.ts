@@ -116,7 +116,7 @@ window.addEventListener("load",function(){window.wpcc.init({"colors":{"popup":{"
   alias: {
     "@theme/HomeFooter.vue": path.resolve(
       __dirname,
-      "./components/HomeFooter.vue"
+      "./components/HomeFooter.vue",
     ),
     "@theme/PageMeta.vue": path.resolve(__dirname, "./components/PageMeta.vue"),
   },
