@@ -1,0 +1,89 @@
+baseURL = 'https://zdo.com/cinarz/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disableKinds = ['taxonomy', 'term']
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'monthly'
+
+[minify]
+  minifyOutput = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    label = 'English'
+    locale = 'en-US'
+    title = 'Zekiye Çınar, Ph.D.'
+    description = 'Professor of Physical Chemistry'
+    
+    [[languages.en.menu.main]]
+      name = 'Biography'
+      url = '/biography/'
+      weight = 1
+    [[languages.en.menu.main]]
+      name = 'Book'
+      url = '/quantum-chemistry/'
+      weight = 2
+    [[languages.en.menu.main]]
+      name = 'Publications'
+      url = '/publications/'
+      weight = 3
+    [[languages.en.menu.main]]
+      name = 'Communications'
+      url = '/communications/'
+      weight = 4
+    [[languages.en.menu.main]]
+      name = 'Theses'
+      url = '/theses/'
+      weight = 5
+    [[languages.en.menu.main]]
+      name = 'Projects'
+      url = '/projects/'
+      weight = 6
+    [[languages.en.menu.main]]
+      name = 'Courses'
+      url = '/courses/'
+      weight = 7
+
+  [languages.tr]
+    contentDir = 'content/tr'
+    label = 'Türkçe'
+    locale = 'tr-TR'
+    title = 'Prof. Dr. Zekiye Çınar'
+    description = 'Fizikokimya Profesörü'
+    
+    [[languages.tr.menu.main]]
+      name = 'Özgeçmiş'
+      url = '/ozgecmis/'
+      weight = 1
+    [[languages.tr.menu.main]]
+      name = 'Kitap'
+      url = '/kuantum-kimyasi/'
+      weight = 2
+    [[languages.tr.menu.main]]
+      name = 'Yayınlar'
+      url = '/yayinlar/'
+      weight = 3
+    [[languages.tr.menu.main]]
+      name = 'Bildiriler'
+      url = '/bildiriler/'
+      weight = 4
+    [[languages.tr.menu.main]]
+      name = 'Tezler'
+      url = '/tezler/'
+      weight = 5
+    [[languages.tr.menu.main]]
+      name = 'Projeler'
+      url = '/projeler/'
+      weight = 6
+    [[languages.tr.menu.main]]
+      name = 'Dersler'
+      url = '/dersler/'
+      weight = 7

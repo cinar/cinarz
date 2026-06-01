@@ -1,0 +1,15 @@
+{{- $imagePath := strings.TrimPrefix "/" .Destination -}}
+{{- $img := resources.Get $imagePath -}}
+{{- if $img -}}
+  {{- $isSVG := eq $img.MediaType.SubType "svg+xml" -}}
+  {{- if not $isSVG -}}
+    {{- if gt $img.Width 800 -}}
+      {{- $img = $img.Resize "800x webp q85" -}}
+    {{- else -}}
+      {{- $img = $img.Process "webp q85" -}}
+    {{- end -}}
+  {{- end -}}
+  <img src="{{ $img.RelPermalink }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}>
+{{- else -}}
+  <img src="{{ if hasPrefix .Destination "/" }}{{ strings.TrimPrefix "/" .Destination | relURL }}{{ else }}{{ .Destination | relURL }}{{ end }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}>
+{{- end -}}
