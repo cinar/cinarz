@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  
+  {{ with .Description | default .Site.Params.description }}
+  <meta name="description" content="{{ . }}">
+  {{ end }}
+  
+  <!-- MS Validate -->
+  <meta name="msvalidate.01" content="5962E47FC1BBF91AE0C53888684B8420">
+  
+  <!-- Icons & Manifest -->
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+  <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+  
+  <!-- Inline style to override background-color and handle dark mode color mode switch -->
+  <style>
+    :root {
+      --c-bg: #fff;
+    }
+    html.dark {
+      --c-bg: #22272e;
+    }
+    html, body {
+      background-color: var(--c-bg);
+    }
+    /* Hide/show color mode icons based on html.dark */
+    .toggle-color-mode-button .sun-icon { display: block; }
+    .toggle-color-mode-button .moon-icon { display: none; }
+    html.dark .toggle-color-mode-button .sun-icon { display: none; }
+    html.dark .toggle-color-mode-button .moon-icon { display: block; }
+    
+    /* Smooth Page Transitions */
+    @keyframes fadeSlideIn {
+      from {
+        opacity: 0;
+        transform: translateY(12px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    main.page, main.home {
+      animation: fadeSlideIn 0.3s cubic-bezier(0.2, 0.8, 0.2, 1);
+    }
+  </style>
+  
+  <!-- Dark Mode Script (inline to prevent flash) -->
+  <script>
+    (function() {
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+      const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    })();
+  </script>
+  
+  <!-- VuePress compiled stylesheet -->
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  
+  <!-- Cookie Consent -->
+  <script src="https://cdn.websitepolicies.io/lib/cookieconsent/cookieconsent.min.js" defer></script>
+  <script>
+    window.addEventListener("load", function() {
+      window.wpcc.init({
+        "colors": {
+          "popup": { "background": "#fff0ca", "text": "#000000", "border": "#e0bc57" },
+          "button": { "background": "#e0bc57", "text": "#ffffff" }
+        },
+        "border": "thin",
+        "corners": "small",
+        "content": { "href": "https://zdo.com/privacy-policy" }
+      });
+    });
+  </script>
+</head>
+<body>
+  <div id="app">
+    <div class="theme-container{{ if ne .Params.sidebar "auto" }} no-sidebar{{ end }}">
+      {{ partial "header.html" . }}
+      
+      <div class="sidebar-mask"></div>
+      
+      {{ partial "sidebar.html" . }}
+      
+      {{ block "main" . }}{{ end }}
+    </div>
+  </div>
+  
+  <!-- JavaScript for VuePress layout controls -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      // Toggle color mode
+      const colorToggleBtn = document.querySelector(".toggle-color-mode-button");
+      if (colorToggleBtn) {
+        colorToggleBtn.addEventListener("click", function() {
+          const isDark = document.documentElement.classList.toggle("dark");
+          localStorage.setItem("vuepress-color-scheme", isDark ? "dark" : "light");
+        });
+      }
+      
+      // Toggle sidebar mobile menu
+      const sidebarToggleBtn = document.querySelector(".toggle-sidebar-button");
+      const themeContainer = document.querySelector(".theme-container");
+      if (sidebarToggleBtn && themeContainer) {
+        sidebarToggleBtn.addEventListener("click", function() {
+          const isOpen = themeContainer.classList.toggle("sidebar-open");
+          sidebarToggleBtn.setAttribute("aria-expanded", isOpen ? "true" : "false");
+        });
+      }
+      
+      // Close sidebar mobile menu on mask click
+      const sidebarMask = document.querySelector(".sidebar-mask");
+      if (sidebarMask && themeContainer) {
+        sidebarMask.addEventListener("click", function() {
+          themeContainer.classList.remove("sidebar-open");
+          if (sidebarToggleBtn) {
+            sidebarToggleBtn.setAttribute("aria-expanded", "false");
+          }
+        });
+      }
+      
+      // Dropdown language selector toggle
+      const dropdownTitles = document.querySelectorAll(".navbar-dropdown-title, .navbar-dropdown-title-mobile");
+      const dropdownMenu = document.querySelector(".navbar-dropdown");
+      if (dropdownTitles.length && dropdownMenu) {
+        dropdownTitles.forEach(titleBtn => {
+          titleBtn.addEventListener("click", function(e) {
+            e.stopPropagation();
+            const isOpen = dropdownMenu.style.display === "block";
+            dropdownMenu.style.display = isOpen ? "none" : "block";
+          });
+        });
+        
+        // Close dropdown when clicking outside
+        document.addEventListener("click", function() {
+          dropdownMenu.style.display = "none";
+        });
+      }
+    });
+  </script>
+</body>
+</html>

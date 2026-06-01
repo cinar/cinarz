@@ -1,0 +1,57 @@
+<aside class="sidebar">
+  <nav class="navbar-items">
+    {{ range .Site.Menus.main }}
+      <div class="navbar-item">
+        <a class="{{ if $.HasMenuCurrent "main" . }}router-link-active router-link-exact-active{{ end }}" href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+      </div>
+    {{ end }}
+    <div class="navbar-item">
+      <div class="navbar-dropdown-wrapper">
+        <button class="navbar-dropdown-title" type="button" aria-label="Select language">
+          <span class="title">Languages</span><span class="arrow down"></span>
+        </button>
+        <button class="navbar-dropdown-title-mobile" type="button" aria-label="Select language">
+          <span class="title">Languages</span><span class="right arrow"></span>
+        </button>
+        <ul style="display:none;" class="navbar-dropdown">
+          <li class="navbar-dropdown-item">
+            <a href="{{ .RelPermalink }}" class="router-link-active router-link-exact-active">{{ .Site.Language.Label | default .Site.Language.Lang }}</a>
+          </li>
+          {{ if .IsTranslated }}
+            {{ range .AllTranslations }}
+              {{ if ne .Language.Lang $.Site.Language.Lang }}
+                <li class="navbar-dropdown-item">
+                  <a href="{{ .RelPermalink }}">{{ .Language.Label }}</a>
+                </li>
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ range site.Languages }}
+              {{ if ne .Lang $.Site.Language.Lang }}
+                {{ $langPrefix := cond (eq .Lang "en") "" (printf "%s/" .Lang) }}
+                <li class="navbar-dropdown-item">
+                  <a href="{{ $langPrefix | relURL }}">{{ .Label }}</a>
+                </li>
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </nav>
+  
+  {{ if eq .Params.sidebar "auto" }}
+    <ul class="sidebar-items">
+      <li>
+        <p tabindex="0" class="sidebar-item sidebar-heading">{{ .Title }}</p>
+        <!-- Re-map Table of Contents to VuePress CSS classes -->
+        {{ $toc := .TableOfContents }}
+        {{ $toc = $toc | replaceRE "<nav id=\"TableOfContents\">" "" }}
+        {{ $toc = $toc | replaceRE "</nav>" "" }}
+        {{ $toc = $toc | replaceRE "<ul>" "<ul class=\"sidebar-item-children\">" }}
+        {{ $toc = $toc | replaceRE "<a " "<a class=\"sidebar-item\" " }}
+        {{ $toc | safeHTML }}
+      </li>
+    </ul>
+  {{ end }}
+</aside>

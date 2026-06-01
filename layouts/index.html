@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="home">
+  {{ if .Params.home }}
+    <header class="hero">
+      {{ if .Params.heroImage }}
+        {{ $heroPath := strings.TrimPrefix "/" .Params.heroImage }}
+        {{ $heroImg := resources.Get $heroPath }}
+        {{ if $heroImg }}
+          {{ $heroImg = $heroImg.Resize "280x280 webp q90" }}
+          <img src="{{ $heroImg.RelPermalink }}" alt="{{ .Params.heroAlt | default .Site.Title }}" height="280">
+        {{ else }}
+          <img src="{{ .Params.heroImage | relURL }}" alt="{{ .Params.heroAlt | default .Site.Title }}" height="280">
+        {{ end }}
+      {{ end }}
+      <h1 id="main-title">{{ .Site.Title }}</h1>
+      <p class="description">{{ .Site.Params.description }}</p>
+      {{ if .Params.actions }}
+        <p class="actions">
+          {{ range .Params.actions }}
+            {{ $isExternal := or (hasPrefix .link "http://") (hasPrefix .link "https://") }}
+            {{ $url := cond $isExternal .link (.link | relLangURL) }}
+            <a href="{{ $url }}" class="action-button {{ .type }}" aria-label="{{ .text }}">{{ .text }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+    </header>
+  {{ end }}
+  
+  <div class="theme-default-content">
+    <div>
+      {{ .Content }}
+    </div>
+  </div>
+  
+  {{ partial "footer.html" . }}
+</main>
+{{ end }}

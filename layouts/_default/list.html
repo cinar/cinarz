@@ -1,0 +1,23 @@
+{{ define "main" }}
+<main class="page">
+  <div class="theme-default-content">
+    <div>
+      {{ .Content }}
+      
+      {{ if .Pages }}
+        <ul>
+          {{ range .Pages.ByDate.Reverse }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              {{ if not .Date.IsZero }}
+                <span>({{ .Date.Format "January 2, 2006" }})</span>
+              {{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
+</main>
+{{ end }}
